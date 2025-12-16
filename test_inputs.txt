@@ -1,0 +1,24 @@
+Test Case 1: Normal Input
+Favorite Food: Biryani
+Favorite Color: Blue
+
+Expected Result:
+Program displays all information correctly.
+
+----------------------------
+
+Test Case 2: Empty Input
+Favorite Food:
+Favorite Color: Red
+
+Expected Result:
+Program shows error message for empty input.
+
+----------------------------
+
+Test Case 3: Long Input
+Favorite Food: Chicken Dum Biryani with extra spice and gravy
+Favorite Color: Light Sky Blue
+
+Expected Result:
+Program accepts input and displays formatted output correctly.
